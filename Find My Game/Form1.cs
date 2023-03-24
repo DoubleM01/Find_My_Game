@@ -340,8 +340,8 @@ namespace Find_My_Game
 
         public static void Sendmail(string to_mail, string subject, string body)
         {
-            string from_mail = "fmg.projectbue@gmail.com";
-            string password = "BUE2022.";
+            string from_mail = "xxxxx@gmail.com";
+            string password = "xxxxxxx";
             var client = new SmtpClient("smtp.gmail.com", 587)
             {
                 Credentials = new NetworkCredential(from_mail, password),
