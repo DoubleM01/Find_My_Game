@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Find_My_Game.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Serial_number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ABC123-456XFD-BUE333</Value>
+    </Setting>
+    <Setting Name="End_Date" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4/16/2022</Value>
+    </Setting>
+    <Setting Name="startup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,3150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>fifa - Games 2 Egypt</title>
+<meta content="Buy PlayStation 4, PS4 Pro, PS4, PS4 PSN, Xbox One X, Xbox Console, Nintendo Switch GamesEgypt, Fortnite V Bucks, Pubg PS4 & PlayStation best price inEgypt." name="description">
+<meta content="Ahmed Galal and Modather Yakout" name="author">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<style>
+        .nav-account .nav-account__item > a {
+            color: #fff !important;
+        }
+
+        .nav-account .nav-account__item {
+            font-weight: 700;
+        }
+
+        .main-nav__list > li > a {
+            color: #FFF;
+        }
+    </style>
+
+<link href="/favicon.ico" rel="shortcut icon" />
+<link href="/favicon-120.png" rel="apple-touch-icon" sizes="120x120">
+<link href="/favicon-152.png" rel="apple-touch-icon" sizes="152x152">
+<link href="/web/manifest.json" rel="manifest" />
+
+
+<link href="/Web/css/google_fonts.css" rel="stylesheet" />
+
+<link href="/Web/alchemists_theme/assets/vendor/bootstrap/css/bootstrap.css?v=1.0" rel="stylesheet" type="text/css">
+<link href="/Web/alchemists_theme/assets/css/style-basketball-dark.min.css?v=1.1" rel="stylesheet" type="text/css" />
+<link href="/Web/alchemists_theme/assets/css/custom.css?v=2.991" rel="stylesheet" type="text/css">
+<link href="/Web/alchemists_theme/assets/css/fixed_dimensions.css?v=1.2" rel="stylesheet" />
+<style>
+        .widget__list ul ul
+        {
+            padding-top:0 !important;
+        }
+        .widget__list > li > a, .main-nav__list li div.cat_item {
+            display: inline-block;
+            padding: 10px 0;
+        }
+        .widget__list > li > ul > li.has-children {
+            background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 6 4'%3E%3Cpath transform='translate(-586.156 -1047.28)' fill='%23fff' d='M586.171,1048l0.708-.71,2.828,2.83-0.707.71Zm4.95-.71,0.707,0.71L589,1050.83l-0.707-.71Z'/%3E%3C/svg%3E");
+            background-position: right 0 top 14px;
+            background-repeat: no-repeat;
+            background-size: 6px 4px;
+        }
+        .widget__list > li > div > a
+        {
+            color:#fff;
+        }
+        .widget__list > li > div.cat_item {
+            padding: 22px 24px;
+            -webkit-transition: color 0.3s ease;
+        }
+        .widget__list ul li
+        {
+            padding:0;
+        }
+        .widget__list ul li div.cat_item {
+            padding: 10px 0;
+        }
+        .main-nav .main-nav__list > li {
+            text-align: left;
+        }
+
+
+        @media only screen and (max-width: 991px) {
+
+            .main-nav .main-nav__item--shopping-cart .info-block__cart-sum {
+                padding-left: 10px;
+            }
+        }
+
+        .letter_space {
+            letter-spacing: 0.5px;
+        }
+
+        .filter_category {
+            margin-top: 5px;
+            display:inline-block;
+            /*font-weight:normal;*/
+            color: #d0d3d8;
+            letter-spacing:normal;
+        }
+            .filter_category span {
+                color: #FFF;
+
+            }
+
+        .btn.disabled {
+            opacity: 1;
+        }
+
+        .btn-warning {
+            background-color: #b19e38;
+        }
+        .btn-outline.btn-success {
+            background-color: transparent !important;
+
+
+        }
+        .notified {
+            color: #24d9b0 !important;
+        }
+
+        .lower_corner_tag.out_of_stock:after {
+            background-color: #727272;
+        }
+        .filters {
+            width: 100%;
+            display: block;
+            background-color: #16171a;
+            border-bottom: 2px solid #5f676e;
+            padding: 0 14px 0 30px;
+        }
+            .filters ul {
+                list-style: none;
+                margin-bottom: 0;
+                padding: 0;
+                overflow-x: scroll;
+            }
+            .filters .flex-nowrap {
+                overflow-x: scroll;
+            }
+                .filters .flex-nowrap .btn {
+                    width:100%;
+                    text-align: center;
+                }
+            .filters .btn-xs {
+                padding:5px 0;
+            }
+            .btn-icon-left i {
+                margin-left: 0;
+                margin-right: 5px;
+            }
+
+        .product__add-to-cart {
+            width:100%;
+        }
+        .black_friday {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 10;
+        }
+        @media (max-width: 575px) {
+            .black_friday {
+                width:60px;
+                left: 3px;
+                top:3px;
+            }
+        }
+    </style>
+<style>
+        .region {
+            padding: 10px 0 5px 0;
+            border-bottom: 1px solid #242629;
+            background-color: #ffffff;
+            background-color: rgba(255, 255, 255, 0.04);
+            margin-bottom: 10px;
+        }
+
+            .region:last-child {
+                border-bottom: none;
+                margin-bottom: 0;
+            }
+
+            .region img {
+                width: 55px;
+                height: auto;
+            }
+
+            .region h5 {
+                margin-bottom: 0;
+                line-height: 16px;
+            }
+
+            .region span {
+                font-size: 12px;
+            }
+
+            .region h5 a {
+                color: white;
+            }
+
+        .alert {
+            margin-top: 20px;
+        }
+
+        @media (min-width: 992px) {
+            .nav-account .nav-account__item {
+                font-size: 11px;
+            }
+        }
+
+        .body_overlay {
+            width: 100%;
+            height: 100%;
+            display: none;
+            background-color: #000;
+            opacity: 0.7;
+            position: fixed;
+            z-index: 10;
+        }
+
+        /* body {
+            background-image: url('/Web/img/arrows-grey-bg.jpg');
+            background-image: url('/Web/img/arrows-bg.jpg');
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+        }*/
+    </style>
+</head>
+<body class="page-loader-disable">
+<div class="site-wrapper clearfix">
+<div class="body_overlay"></div>
+<div class="header-mobile clearfix" id="header-mobile">
+<div class="header-mobile__logo">
+<a href="/" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games">
+<img alt="Games 2 Egypt" class="header-mobile__logo-img" src="/Images/Regions/1/1?width=203">
+</a>
+</div>
+<div class="header-mobile__inner">
+<a class="burger-menu-icon" id="header-mobile__toggle" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games">
+<span class="burger-menu-icon__line"></span>
+</a>
+<div class="df-icon-stack df-icon-stack--bag">
+<a class="info-block__link-wrapper" href="/Web/Shopping/Cart" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games">
+<img src="/Web/img/Icons/shop-bag.png" title="shopping cart" />
+</a>
+</div>
+</div>
+</div>
+<header class="header header--layout-1">
+<div class="header__top-bar clearfix">
+<div class="container">
+<div class="row">
+ <div class="col-8">
+<div class="header__top-bar-inner">
+<ul class="nav-account">
+<li class="nav-account__item">
+<a href="#">
+Language:
+<span class="highlight">
+<text>En</text>
+</span>
+</a>
+<ul class="main-nav__sub">
+<li>
+<a href="/Web/Languages/UpdateLanguage?lang=en" title="Games 2 Egypt in english">English</a>
+</li>
+<li>
+<a href="/Web/Languages/UpdateLanguage?lang=ar" title="Games 2 Egypt in arabic">العربية</a>
+</li>
+</ul>
+</li>
+<li class="nav-account__item">
+<a href="#">
+Currency:
+<span class="highlight">
+<text>EGP</text>
+</span>
+</a>
+<ul class="main-nav__sub">
+<li>
+<a href="/Web/Home/UpdateCurrency?currency=EGP" title="EGP">EGP</a>
+</li>
+</ul>
+</li>
+<li class="nav-account__item">
+<a href="/Web/Members/Login" title="Sign in">Sign in</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-4 pull-end payments_icons text-right">
+<img alt="Payment methods" src="/Web/img/payments.png" />
+</div>
+</div>
+</div>
+</div>
+<div class="header__secondary">
+<div class="container header_tools">
+<div class="header-logo">
+<a href="/" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games">
+<img alt="Games 2 Egypt for PlayStation consoles and PS5 games, PlayStation 4, xbox one games, nintendo switch games" class="header-logo__img" src="/Images/Regions/1/1?width=195">
+</a>
+</div>
+<div class="header-search-form search-box">
+<form action="/Web/Products/Index" class="search-form">
+<input autocomplete="off" class="form-control header-mobile__search-control x-autocomplete" name="search" placeholder="Enter your search here..." type="text">
+<div class="x-autocomplete-container p-0 d-none">
+<div class="x-autocomplete-item"> </div>
+</div>
+<button class="header-mobile__search-submit" type="submit" aria-label="Search" role="button">
+<i class="fa fa-search"></i>
+</button>
+</form>
+</div>
+<ul class="info-block info-block--header">
+<li class="info-block__item info-block__item--contact-primary">
+<span class="df-icon df-icon--custom">
+<i class="icon-briefcase"></i>
+</span>
+<h6 class="info-block__heading">Join Our Team !</h6>
+<a class="info-block__link" href="/cdn-cgi/l/email-protection#24474b4a5045475051576443454941571661435d54500a474b49" title="Join Our Team"><span class="__cf_email__" data-cfemail="98f2f7faebd8fff9f5fdebaafdffe1e8ecb6fbf7f5">[email&#160;protected]</span></a>
+</li>
+<li class="info-block__item info-block__item--contact-secondary">
+<span class="df-icon df-icon--custom">
+<i class="icon-envelope"></i>
+</span>
+<h6 class="info-block__heading">Contact Us</h6>
+<a class="info-block__link" href="/cdn-cgi/l/email-protection#81e2eeeff5e0e2f5f4f2c1e6e0ece4f2b3e4e6f8f1f5afe2eeec" title="Contact Us Games 2 Egypt for PlayStation 5, PS4 games, xbox one games, nintendo switch games"><span class="__cf_email__" data-cfemail="61020e0f1500021514122106000c04125324061811154f020e0c">[email&#160;protected]</span></a>
+</li>
+<li class="info-block__item info-block__item--shopping-cart js-info-block__item--onhover has-children">
+<a class="info-block__link-wrapper" href="/Web/Shopping/Cart" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games">
+<div class="df-icon-stack df-icon-stack--bag">
+<img src="/Web/img/Icons/shop-bag.png" title="shopping cart" />
+</div>
+<h6 class="info-block__heading">
+Your Bag
+</h6>
+<span class="info-block__cart-sum">EGP 0.00</span>
+</a>
+<div class="cart-box popup"></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="header__primary">
+<div class="container">
+<div class="header__primary-inner">
+<nav class="main-nav clearfix">
+<a href="#" class="pushy-panel__toggle" title="Menu button">
+<span class="pushy-panel__line"></span>
+</a>
+<ul class="main-nav__list">
+<li id="mobile_side_logo">
+</li>
+<li class="has-children">
+<span class="main-nav__toggle"></span><a href="#">PC</a>
+<ul class="main-nav__sub">
+<li>
+<a href="/Category/3304/pc_software" title="PC Software">PC Software</a>
+</li>
+<li>
+<a href="/Category/2234/pc_digital_games" title="PC Digital Games">PC Digital Games</a>
+</li>
+<li>
+<a href="/Category/3272/steam_gift_cards" title="Steam Gift Cards">Steam Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3325/gaming_monitors" title="Gaming Monitors">Gaming Monitors</a>
+</li>
+<li>
+<a href="/Category/3315/keyboard_&amp;_mouse" title="Keyboard & Mouse">Keyboard & Mouse</a>
+</li>
+<li>
+<a href="/Category/3313/gaming_headsets" title="Gaming Headsets">Gaming Headsets</a>
+ </li>
+<li>
+<a href="/Category/3316/webcams_&amp;_mics" title="Webcams & Mics">Webcams & Mics</a>
+</li>
+<li>
+<a href="/Category/2242/pc_accessories" title="PC Accessories">PC Accessories</a>
+</li>
+<li>
+<a href="/Category/3321/gaming_laptops" title="Gaming Laptops">Gaming Laptops</a>
+</li>
+</ul>
+</li>
+<li class="has-children">
+<span class="main-nav__toggle"></span><a href="#">PlayStation</a>
+<div class="main-nav__megamenu clearfix width_lg_75">
+<ul class="col-lg-3 col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Category/3282/playstation_5" title="PlayStation 5">PlayStation 5</a>
+</li>
+<li>
+<a href="/Category/3289/playstation_5_consoles" title="PlayStation 5 Consoles">PlayStation 5 Consoles</a>
+</li>
+<li>
+<a href="/Category/3286/playstation_5_accessories" title="PlayStation 5 Accessories">PlayStation 5 Accessories</a>
+</li>
+<li>
+<a href="/Category/3287/playstation_5_games" title="PlayStation 5 Games">PlayStation 5 Games</a>
+</li>
+<li>
+<a href="/Category/3288/playstation_5_used_games" title="PlayStation 5 Used Games">PlayStation 5 Used Games</a>
+</li>
+<li>
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus</a>
+</li>
+</ul>
+<ul class="col-lg-3 col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Category/225/playstation_4" title="PlayStation 4">PlayStation 4</a>
+</li>
+<li>
+<a href="/Category/2267/playstation_4_consoles" title="PlayStation 4 Consoles">PlayStation 4 Consoles</a>
+</li>
+<li>
+<a href="/Category/1229/playstation_4_accessories" title="PlayStation 4 Accessories">PlayStation 4 Accessories</a>
+</li>
+<li>
+<a href="/Category/2241/playstation_4_virtual_reality" title="PlayStation 4 Virtual Reality">PlayStation 4 Virtual Reality</a>
+</li>
+<li>
+<a href="/Category/1227/playstation_4_games" title="PlayStation 4 Games">PlayStation 4 Games</a>
+</li>
+<li>
+ <a href="/Category/2237/playstation_4_used_games" title="PlayStation 4 Used Games">PlayStation 4 Used Games</a>
+</li>
+<li>
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus</a>
+</li>
+</ul>
+<ul class="col-lg-3  col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus</a>
+</li>
+<li>
+<a href="/Category/2265/psn_usa_store" title="PSN USA Store">PSN USA Store</a>
+</li>
+<li>
+<a href="/Category/2253/psn_uae_store" title="PSN UAE Store">PSN UAE Store</a>
+</li>
+<li>
+<a href="/Category/2264/psn_uk_store" title="PSN UK Store">PSN UK Store</a>
+</li>
+<li>
+<a href="/Category/3284/psn_france_store" title="PSN France Store">PSN France Store</a>
+</li>
+<li>
+<a href="/Category/3285/psn_canada_store" title="PSN Canada Store">PSN Canada Store</a>
+</li>
+<li>
+<a href="/Category/2258/psn_ksa_store" title="PSN KSA Store">PSN KSA Store</a>
+</li>
+<li>
+<a href="/Category/2260/psn_qatar_store" title="PSN Qatar Store">PSN Qatar Store</a>
+</li>
+<li>
+<a href="/Category/2261/psn_bahrain_store" title="PSN Bahrain Store">PSN Bahrain Store</a>
+</li>
+<li>
+<a href="/Category/2262/psn_kuwait_store" title="PSN Kuwait Store">PSN Kuwait Store</a>
+</li>
+<li>
+<a href="/Category/2263/psn_oman_store" title="PSN Oman Store">PSN Oman Store</a>
+</li>
+<li>
+<a href="/Category/3278/psn_lebanon_store" title="PSN Lebanon Store">PSN Lebanon Store</a>
+</li>
+</ul>
+<div class="col-lg-3 col-12 text-center d-lg-block d-none">
+<img alt="PlayStation logo png" class="width_75" src="/Web/img/playstation_icon.png" title="PlayStation logo png" />
+</div>
+</div>
+</li>
+<li class="has-children">
+<span class="main-nav__toggle"></span><a href="#">Xbox</a>
+<div class="main-nav__megamenu clearfix width_lg_75"> 
+<ul class="col-lg-4  col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Category/3305/all_xbox_products" title="All Xbox Products">All Xbox Products</a>
+</li>
+<li>
+<a href="/Category/2230/xbox_consoles" title="Xbox Consoles">Xbox Consoles</a>
+</li>
+<li>
+<a href="/Category/3323/xbox_accessories" title="Xbox Accessories">Xbox Accessories</a>
+</li>
+<li>
+<a href="/Category/228/xbox_games" title="Xbox Games">Xbox Games</a>
+</li>
+<li>
+<a href="/Category/2248/xbox_used_games" title="Xbox Used Games">Xbox Used Games</a>
+</li>
+</ul>
+<ul class="col-lg-4 col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Category/3305/xbox_gift_cards_and_games" title="Xbox Gift Cards And Games">Xbox Gift Cards And Games</a>
+</li>
+<li>
+<a href="/Category/1237/xbox_subscriptions_&amp;_gift_cards" title="Xbox Subscriptions & Gift Cards">Xbox Subscriptions & Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3280/xbox_digital_games" title="Xbox Digital Games">Xbox Digital Games</a>
+</li>
+</ul>
+<div class="col-lg-4 col-12 text-center d-lg-block d-none">
+<img alt="xbox logo png" title="xbox logo png" class="width_75" src="/Web/img/xbox_logo_black.png" />
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="/Category/2238/all_nintendo_products" title="Nintendo Switch">Nintendo Switch</a>
+<ul class="main-nav__sub">
+<li>
+<a href="/Category/3312/nintendo_switch_consoles" title="Nintendo Switch Consoles">Nintendo Switch Consoles</a>
+</li>
+<li>
+<a href="/Category/2249/nintendo_switch_accessories" title="Nintendo Switch Accessories">Nintendo Switch Accessories</a>
+</li>
+<li>
+<a href="/Category/2250/nintendo_switch_games" title="Nintendo Games">Nintendo Games</a>
+</li>
+<li>
+<a href="/Category/2251/nintendo_switch_eshop_gift_cards" title="Nintendo eShop Gift Cards">Nintendo eShop Gift Cards</a>
+</li>
+</ul>
+</li>
+<li class="has-children">
+<span class="main-nav__toggle"></span><a href="#">Digital Products</a>
+<div class="main-nav__megamenu clearfix">
+<ul class="col-lg-3  col-12 main-nav__ul">
+<li class="main-nav__title mt-0">
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus</a>
+</li>
+<li>
+<a href="/Category/2265/psn_usa_store" title="PSN USA Store">PSN USA Store</a>
+</li>
+<li>
+<a href="/Category/2253/psn_uae_store" title="PSN UAE Store">PSN UAE Store</a>
+</li>
+<li>
+<a href="/Category/2264/psn_uk_store" title="PSN UK Store">PSN UK Store</a>
+</li>
+<li>
+<a href="/Category/3284/psn_france_store" title="PSN France Store">PSN France Store</a>
+</li>
+<li>
+<a href="/Category/3285/psn_canada_store" title="PSN Canada Store">PSN Canada Store</a>
+</li>
+<li>
+<a href="/Category/2258/psn_ksa_store" title="PSN KSA Store">PSN KSA Store</a>
+</li>
+<li>
+<a href="/Category/2260/psn_qatar_store" title="PSN Qatar Store">PSN Qatar Store</a>
+</li>
+<li>
+<a href="/Category/2261/psn_bahrain_store" title="PSN Bahrain Store">PSN Bahrain Store</a>
+</li>
+<li>
+<a href="/Category/2262/psn_kuwait_store" title="PSN Kuwait Store">PSN Kuwait Store</a>
+</li>
+<li>
+<a href="/Category/2263/psn_oman_store" title="PSN Oman Store">PSN Oman Store</a>
+</li>
+<li>
+<a href="/Category/3278/psn_lebanon_store" title="PSN Lebanon Store">PSN Lebanon Store</a>
+</li>
+</ul>
+<ul class="col-lg-3  col-12 main-nav__ul">
+<li class="main-nav__title">
+<a href="/Category/3303/pc_digital_products" title="PC Digital Products">PC Digital Products</a>
+</li>
+<li>
+<a href="/Category/3304/pc_software" title="PC Software">PC Software</a>
+</li>
+<li>
+<a href="/Category/2234/pc_digital_games" title="PC Digital Games">PC Digital Games</a>
+</li>
+<li class="main-nav__title">
+<a href="/Category/3291/gaming_gift_cards" title="Gaming Gift Cards">Gaming Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3293/pubg_gift_cards" title="PUBG Gift Cards">PUBG Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3292/fortnite_gift_cards" title="Fortnite Gift Cards">Fortnite Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3300/fifa_points" title="FIFA Points">FIFA Points</a>
+</li>
+<li>
+<a href="/Category/3310/apex_gift_cards" title="Apex Gift Cards">Apex Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3307/league_of_legends_(lol)" title="League Of Legends (LOL)">League Of Legends (LOL)</a>
+</li>
+<li>
+<a href="/Category/3294/roblox_gift_cards" title="ROBLOX Gift Cards">ROBLOX Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3308/razer_gold_gift_cards" title="Razer Gold Gift Cards">Razer Gold Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3311/obuck_gift_cards" title="oBuck Gift Cards">oBuck Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3317/free_fire" title="Free Fire">Free Fire</a>
+</li>
+</ul>
+<ul class="col-lg-3  col-12 main-nav__ul">
+<li class="main-nav__title">
+<a href="/Category/3270/apple_itunes_gift_cards" title="Apple iTunes Gift Cards">Apple iTunes Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3295/apple_itunes_usa" title="Apple iTunes USA">Apple iTunes USA</a>
+</li>
+<li>
+<a href="/Category/3296/apple_itunes_uk" title="Apple iTunes UK">Apple iTunes UK</a>
+</li>
+<li class="main-nav__title">
+<a href="/Category/3271/google_play_gift_cards" title="Google Play Gift Cards">Google Play Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3297/google_play_usa" title="Google Play USA">Google Play USA</a>
+</li>
+<li>
+<a href="/Category/3298/google_play_uks" title="Google Play UK">Google Play UK</a>
+</li>
+</ul>
+<ul class="col-lg-3  col-12 main-nav__ul">
+<li class="main-nav__title">
+ <a href="/Category/3301/xbox" title="Xbox">Xbox</a>
+</li>
+<li>
+<a href="/Category/1237/xbox_subscriptions_&amp;_gift_cards" title="Xbox Subscriptions & Gift Cards">Xbox Subscriptions & Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3280/xbox_digital_games" title="Xbox Digital Games">Xbox Digital Games</a>
+</li>
+<li class="main-nav__title">
+<a href="/Category/3302/nintendo_digital_products" title="Nintendo Digital Products">Nintendo Digital Products</a>
+</li>
+<li>
+<a href="/Category/2251/nintendo_eshop_gift_cards" title="Nintendo eShop Gift Cards">Nintendo eShop Gift Cards</a>
+</li>
+<li>
+<a href="/Category/3299/nintendo_digital_games" title="Nintendo Digital Games">Nintendo Digital Games</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="has-children">
+<span class="main-nav__toggle"></span><a href="/Category/3269/others" title="Others">Others</a>
+<ul class="main-nav__sub">
+<li>
+<a href="/Category/3325/gaming_monitors" title="Gaming Monitors">Gaming Monitors</a>
+</li>
+<li>
+<a href="/Category/3314/gaming_chairs" title="Gaming Chairs">Gaming Chairs</a>
+</li>
+<li>
+<a href="/Category/3315/keyboard_&amp;_mouse" title="Keyboard & Mouse">Keyboard & Mouse</a>
+</li>
+<li>
+<a href="/Category/3316/webcam_&amp;_mics" title="Webcam & Mics">Webcam & Mics</a>
+</li>
+<li>
+<a href="/Category/3313/speakers_&amp;_gaming_headsets" title="Speakers & Gaming Headsets">Speakers & Gaming Headsets</a>
+</li>
+<li>
+<a href="/Category/3327/data_storage" title="Data Storage">Data Storage</a>
+</li>
+<li>
+<a href="/Category/3318/posters" title="Posters">Posters</a>
+</li>
+<li>
+<a href="/Category/3319/cables" title="Cables">Cables</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/Category/3326/Virtual Reality VR" title="Virtual Reality VR">VR</a>
+</li>
+<li>
+<a href="/Web/Products/Index?hasOffer=1" title="Offers">Offers</a>
+</li>
+ <li>
+<a href="/Web/Home/ContactUs" title="Contact Us">Contact Us</a>
+</li>
+</ul>
+<ul class="social-links social-links--main-nav" id="hotline">
+<li>
+<a class="hotline" data-placement="bottom" data-toggle="tooltip" dir="ltr" href="tel:16280" title="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games hotline phone number">
+<i class="fa fa-phone"></i>
+16280
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<aside class="pushy-panel ">
+<div class="pushy-panel__inner">
+<header class="pushy-panel__header">
+<a href="/Web/Members/Login" title="Sign in">Hello, Sign in</a>
+</header>
+<div class="pushy-panel__content">
+
+<aside class="widget widget--side-panel">
+<div class="aside_menu_section">
+<h2>PC</h2>
+<h3>
+<a href="/Category/3304/pc_software" title="PC Software">PC Software <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/2234/pc_digital_games" title="PC Digital Games">PC Digital Games<i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3272/steam_gift_cards" title="Steam Gift Cards">Steam Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3325/gaming_monitors" title="Gaming Monitors">Gaming Monitors <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3313/gaming_headsets" title="Gaming Headsets">Gaming Headsets <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3315/keyboard_&amp;_mouse" title="Keyboard & Mouse">Keyboard & Mouse <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3316/webcam_&amp;_mics" title="Webcam & Mics">Webcam & Mics <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3327/data_storage" title="Data Storage">Data Storage <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>PlayStation 5</h2>
+<h3>
+<a href="/Category/3289/playstation_5_consoles" title="PlayStation 5 Consoles">PlayStation 5 Consoles <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3286/playstation_5_accessories" title="PlayStation 5 Accessories">PlayStation 5 Accessories <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3287/playstation_5_games" title="PlayStation 5 Games">PlayStation 5 Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+ <h3>
+<a href="/Category/3288/playstation_5_used_games" title="PlayStation 5 Used Games">PlayStation 5 Used Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>PlayStation 4</h2>
+<h3>
+<a href="/Category/2267/playstation_4_consoles" title="PlayStation 4 Consoles">PlayStation 4 Consoles <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/1229/playstation_4_accessories" title="PlayStation 4 Accessories">PlayStation 4 Accessories <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/1227/playstation_4_games" title="PlayStation 4 Games">PlayStation 4 Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/2237/playstation_4_used_games" title="PlayStation 4 Used Games">PlayStation 4 Used Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>Xbox</h2>
+<h3>
+<a href="/Category/2230/xbox_consoles" title="Xbox Consoles">Xbox Consoles <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3323/xbox_accessories" title="Xbox Accessories">Xbox Accessories <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/228/xbox_games" title="Xbox Games">Xbox Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/2248/xbox_used_games" title="Xbox Used Games">Xbox Used Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3301/xbox_subscriptions_&amp;_gift_cards" title="Xbox Subscriptions & Gift Cards">Xbox Subscriptions & Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>Nintendo Switch</h2>
+<h3>
+<a href="/Category/3312/nintendo_switch_consoles" title="Nintendo Switch Consoles">Nintendo Switch Consoles <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/2249/nintendo_switch_accessories" title="Nintendo Switch Accessories">Nintendo Switch Accessories <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/2250/nintendo_switch_games" title="Nintendo Switch Games">Nintendo Switch Games <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3302/nintendo_digital_products" title="Nintendo Digital Products">Nintendo Digital Products <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>Digital Products</h2>
+<h3>
+<a href="/Web/Home/Buy-PSN-Cards" title="PlayStation Plus">PlayStation Plus <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3303/pc_digital_products" title="PC Digital Products">PC Digital Products <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3301/xbox_subscriptions_&amp;_gift_cards" title="Xbox Subscriptions & Gift Cards">Xbox Subscriptions & Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3302/nintendo_digital_products" title="Nintendo Digital Products">Nintendo Digital Products <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3291/gaming_gift_cards" title="Gaming Gift Cards">Gaming Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3270/apple_itunes_gift_cards" title="Apple iTunes Gift Cards">Apple iTunes Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3271/google_play_gift_cards" title="Google Play Gift Cards">Google Play Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3272/steam_gift_cards" title="Steam Gift Cards">Steam Gift Cards <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>Others</h2>
+<h3>
+<a href="/Category/3326/virtual_reality_vr" title="Virtual Reality VR">Virtual Reality VR <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3325/gaming_monitors" title="Gaming Monitors">Gaming Monitors <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3314/gaming_chairs" title="Gaming Chairs">Gaming Chairs <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3318/posters" title="Posters">Posters <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3319/cables" title="Cables">Cables <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3327/data_storage" title="Data Storage">Data Storage <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3313/speakers_&amp;_gaming_headsets" title="Speakers & Gaming Headsets">Speakers & Gaming Headsets <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3315/keyboard_&amp;_mouse" title="Keyboard & Mouse">Keyboard & Mouse <i class="fa fa-chevron-right"></i></a>
+ </h3>
+<h3>
+<a href="/Category/3316/webcam_&amp;_mics" title="Webcam & Mics">Webcam & Mics <i class="fa fa-chevron-right"></i></a>
+</h3>
+<h3>
+<a href="/Category/3269/all_other_products" title="All Other Products">All Other Products <i class="fa fa-chevron-right"></i></a>
+</h3>
+</div>
+<div class="aside_menu_section">
+<h2>Settings</h2>
+<h3><a href="/Web/Members/Login" title="Sign in">Sign in</a></h3>
+<h3>
+<a href="/Web/Languages/UpdateLanguage?lang=ar" title="Games 2 Egypt in arabic">العربية</a>
+</h3>
+</div>
+</aside>
+</div>
+<a href="#" class="pushy-panel__back-btn" title="Open Menu"><i class="fa fa-close"></i></a>
+</div>
+</aside>
+
+<div class="page-heading d-none d-sm-flex">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<h1 class="page-heading__title">
+<span class="highlight">Products</span>
+</h1>
+<ol class="page-heading__breadcrumb breadcrumb">
+<li class="breadcrumb-item"><a href="/" title="PlayStation 5 games, PS4 games, xbox one games, nintendo switch games">Home</a></li>
+<li aria-current="page" class="breadcrumb-item active">
+<span>Products</span>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+</div>
+
+
+<div class="site-content">
+<div class="container">
+<form action="/Web/Products/Index" id="frmListProducts">
+<input type="hidden" name="page" value="1" />
+<input type="hidden" name="search" value="fifa" />
+<input type="hidden" name="categoryId" value="0" />
+<input type="hidden" name="hasOffer" value="0" id="hasOffer" />
+<input type="hidden" name="preOrder" value="0" />
+<div class="row">
+<div class="col-12 col-xl-9 order-xl-2">
+<div class="card card--clean no_background">
+<header class="card__header card__header--shop-filter d-none d-sm-block large_screen_filters">
+<div class="shop-filter">
+<h5 class="shop-filter__result d-none d-sm-block letter_space">
+1-24 of 168 results
+for <span class="highlight"> "fifa" </span>
+</h5>
+<ul class="shop-filter__params">
+<li class="shop-filter__control">
+<select class="form-control" name="sortBy">
+<option value="bestMatch" selected="selected">
+Best Match
+</option>
+<option value="priceLowToHigh">
+Price: Low to High
+</option>
+<option value="priceHighToLow">
+Price: High to Low
+</option>
+ <option value="newToOld">
+New to Old
+</option>
+<option value="oldToNew">
+Old to New
+</option>
+</select>
+</li>
+<li class="shop-filter__control page_size">
+<select class="form-control" name="pageSize">
+<option value="24" selected="selected">
+Show 24 per page
+</option>
+<option value="48">
+Show 48 per page
+</option>
+<option value="100">
+Show 100 per page
+</option>
+</select>
+</li>
+</ul>
+</div>
+</header>
+<header class="filters d-block d-xl-none small_screen_filters">
+<div class="row flex-nowrap">
+<div class="col-3 mr-2 px-0 pt-3 pb-4">
+<a class="btn btn-primary btn-xs btn-icon-left" onclick="filterClicked('sort')"><i class="fa fa-sort-amount-desc text-primary"></i> Sort by </a>
+</div>
+<div class="col-3 mr-2 px-0 pt-3 pb-4">
+<a class="btn btn-primary btn-xs btn-icon-right" onclick="filterClicked('brands')"> Brands <i class="fa fa-angle-down text-primary"></i></a>
+</div>
+<div class="col-3 mr-2 px-0 pt-3 pb-4">
+<a class="btn btn-primary btn-xs btn-icon-right" onclick="filterClicked('genres')"> Genres <i class="fa fa-angle-down text-primary"></i></a>
+</div>
+<div class="col-3 mr-2 px-0 pt-3 pb-4">
+<a class="btn btn-primary btn-xs btn-icon-right" onclick="filterClicked('branches')"> In stock at <i class="fa fa-angle-down text-primary"></i></a>
+</div>
+<div class="col-3 mr-2 px-0 pt-3 pb-4">
+<a class="btn btn-primary btn-xs btn-icon-right" onclick="filterClicked('price')"> Price <i class="fa fa-angle-down text-primary"></i></a>
+</div>
+</div>
+</header>
+<div class="card__content">
+<ul class="products products--grid products_index px-2 px-xl-0" id="list_products">
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22___Xbox_One" itemprop="name" />
+<meta content="Now_you_can_perorder_your_FIFA_22_ultimate_edition_for_PlayStation_5_before_anyone_from_games_2_Egypt_feel_the_deffrent_of_FIFA_22_on_Xbox_One_with_new_features_that_take" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25366/fifa-22-xbox-one" itemprop="url" />
+<meta content="1190.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33511?" itemprop="image" />
+<a href="/Product/25366/fifa-22-xbox-one" title="FIFA 22  - Xbox One">
+<img alt="FIFA 22  - Xbox One" src="/Images/Products/33511?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25366/fifa-22-xbox-one" title="FIFA 22  - Xbox One">FIFA 22 - Xbox One</a>
+</h2>
+<span class="product__category">Xbox Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1190</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1190.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25366" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22__Nintendo_Switch" itemprop="name" />
+<meta content="Now_you_can_perorder_your_FIFA_22_standard_Edition_for_Nintendo_Switch_before_anyone_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25517/fifa-22-nintendo-switch" itemprop="url" />
+<meta content="890.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33507?" itemprop="image" />
+<a href="/Product/25517/fifa-22-nintendo-switch" title="FIFA 22 - Nintendo Switch">
+<img alt="FIFA 22 - Nintendo Switch" src="/Images/Products/33507?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25517/fifa-22-nintendo-switch" title="FIFA 22 - Nintendo Switch">FIFA 22 - Nintendo Switch</a>
+</h2>
+<span class="product__category">Nintendo Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">890</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="890.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25517" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_ARABIC_EDITION__Xbox_XS" itemprop="name" />
+<meta content="FIFA_22_ARABIC_EDITION__Xbox_XS_before_anyone_from_games_2_Egypt_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25289/fifa-22-arabic-edition-xbox-xs" itemprop="url" />
+<meta content="1290.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33509?" itemprop="image" />
+<a href="/Product/25289/fifa-22-arabic-edition-xbox-xs" title="FIFA 22 ARABIC EDITION - Xbox X|S">
+<img alt="FIFA 22 ARABIC EDITION - Xbox X|S" src="/Images/Products/33509?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+ <div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25289/fifa-22-arabic-edition-xbox-xs" title="FIFA 22 ARABIC EDITION - Xbox X|S">FIFA 22 ARABIC EDITION - Xbox X|S</a>
+</h2>
+<span class="product__category">Xbox Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1290</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1290.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25289" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_ARABIC_EDITION__Xbox_XS__Used" itemprop="name" />
+<meta content="FIFA_22_standard_edition_for_PlayStation_5_before_anyone_from_games_2_Egypt_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25631/fifa-22-arabic-edition-xbox-xs-used" itemprop="url" />
+<meta content="850.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33508?" itemprop="image" />
+<a href="/Product/25631/fifa-22-arabic-edition-xbox-xs-used" title="FIFA 22 ARABIC EDITION - Xbox X|S - Used">
+<img alt="FIFA 22 ARABIC EDITION - Xbox X|S - Used" src="/Images/Products/33508?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+ <h2 class="product__title">
+<a href="/Product/25631/fifa-22-arabic-edition-xbox-xs-used" title="FIFA 22 ARABIC EDITION - Xbox X|S - Used">FIFA 22 ARABIC EDITION - Xbox X|S - Used</a>
+</h2>
+<span class="product__category">Xbox Used Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">850</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="850.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25631" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22__Xbox_XS__Digital_Code" itemprop="name" />
+<meta content="Now_you_can_perorder_your_FIFA_22_standard_Edition_for_Xbox_series_before_anyone_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25656/fifa-22-xbox-x-s-digital-code" itemprop="url" />
+<meta content="1100.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33510?" itemprop="image" />
+<a href="/Product/25656/fifa-22-xbox-x-s-digital-code" title="FIFA 22 - Xbox X/S - Digital Code">
+<img alt="FIFA 22 - Xbox X/S - Digital Code" src="/Images/Products/33510?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25656/fifa-22-xbox-x-s-digital-code" title="FIFA 22 - Xbox X/S - Digital Code">FIFA 22 - Xbox X/S - Digital Code</a>
+</h2>
+<span class="product__category">Xbox Digital Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1100</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1100.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25656" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="Fifa_22_ARABIC_EDITION__PS5" itemprop="name" />
+<meta content="Now_you_can_perorder_your_FIFA_22_standard_Edition_for_PlayStation_5_before_anyone_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25287/fifa-22-arabic-edition-ps5" itemprop="url" />
+<meta content="1140.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img has_corner_tag">
+<link href="https://www.games2egypt.com/Images/Products/33504?" itemprop="image" />
+<a href="/Product/25287/fifa-22-arabic-edition-ps5" title="Fifa 22 ARABIC EDITION - PS5">
+<img alt="Fifa 22 ARABIC EDITION - PS5" src="/Images/Products/33504?height=225" />
+</a>
+<div class="product__bg-letters">Fifa</div>
+</div>
+<div class="product__content card__content has_corner_tag" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25287/fifa-22-arabic-edition-ps5" title="Fifa 22 ARABIC EDITION - PS5">Fifa 22 ARABIC EDITION - PS5</a>
+</h2>
+<span class="product__category">PlayStation</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1140</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1140.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25287" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="Fifa_22__Gaming_Poster_" itemprop="name" />
+<meta content="Fifa_22__Gaming_Poster_this_portrait_is_now_available_with_best_prices_at_Games2Egypt_Spice_up_your_special_space_Decorate_your_room_with_a_big_portrait__Which_can_be_used_as_a_gift_souvenir_or_collectible_Perfect_gift_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25778/fifa-22-gaming-poster" itemprop="url" />
+<meta content="95.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33667?" itemprop="image" />
+<a href="/Product/25778/fifa-22-gaming-poster" title="Fifa 22 - Gaming Poster ">
+<img alt="Fifa 22 - Gaming Poster " src="/Images/Products/33667?height=225" />
+</a>
+<div class="product__bg-letters">Fifa</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25778/fifa-22-gaming-poster" title="Fifa 22 - Gaming Poster ">Fifa 22 - Gaming Poster </a>
+</h2>
+<span class="product__category">Posters</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">95</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="95.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25778" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_ARABIC_EDITION__PS4" itemprop="name" />
+<meta content="FIFA_22_for_PlayStation_4_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25290/fifa-22-arabic-edition-ps4" itemprop="url" />
+<meta content="1099.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img has_corner_tag">
+<link href="https://www.games2egypt.com/Images/Products/33506?" itemprop="image" />
+<a href="/Product/25290/fifa-22-arabic-edition-ps4" title="FIFA 22 ARABIC EDITION - PS4">
+<img alt="FIFA 22 ARABIC EDITION - PS4" src="/Images/Products/33506?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content has_corner_tag" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25290/fifa-22-arabic-edition-ps4" title="FIFA 22 ARABIC EDITION - PS4">FIFA 22 ARABIC EDITION - PS4</a>
+</h2>
+<span class="product__category">PS4 Games</span>
+ <div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1099</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1099.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25290" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_English_EDITION__PS4" itemprop="name" />
+<meta content="FIFA_22_for_PlayStation_4_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25871/fifa-22-english-edition-ps4" itemprop="url" />
+<meta content="940.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img has_corner_tag">
+<link href="https://www.games2egypt.com/Images/Products/33918?" itemprop="image" />
+<a href="/Product/25871/fifa-22-english-edition-ps4" title="FIFA 22 English EDITION - PS4">
+<img alt="FIFA 22 English EDITION - PS4" src="/Images/Products/33918?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content has_corner_tag" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25871/fifa-22-english-edition-ps4" title="FIFA 22 English EDITION - PS4">FIFA 22 English EDITION - PS4</a>
+</h2>
+<span class="product__category">PS4 Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+ </span>
+<span class="int_price">940</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="940.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25871" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="Fifa_22_standard_Edition___PS_5__USED" itemprop="name" />
+<meta content="Now_you_can_perorder_your_fifa_22_standard_Edition_for_PlayStation_5_before_anyone_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_mode" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25616/fifa-22-standard-edition-ps-5-used" itemprop="url" />
+<meta content="950.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33345?" itemprop="image" />
+<a href="/Product/25616/fifa-22-standard-edition-ps-5-used" title="Fifa 22 standard Edition  - PS 5 - USED">
+<img alt="Fifa 22 standard Edition  - PS 5 - USED" src="/Images/Products/33345?height=225" />
+</a>
+<div class="product__bg-letters">Fifa</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25616/fifa-22-standard-edition-ps-5-used" title="Fifa 22 standard Edition  - PS 5 - USED">Fifa 22 standard Edition - PS 5 - USED</a>
+</h2>
+<span class="product__category">PS5 Used Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+ <span class="int_price">950</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="950.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25616" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Next_Level_Edition__PlayStation_5_Arabic_USED_" itemprop="name" />
+<meta content="FIFA_21_Next_Level_Edition__PlayStation_5_USED_Arabic__is_now_available_at_Games2Egypt_with_best_Prices_is_Egypt_On_the_street_and_in_the_stadium_FIFA_21_has_more_ways_to_play_than_ever_before" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25039/fifa-21-next-level-edition-playstation-5-arabic-used" itemprop="url" />
+<meta content="340.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/31186?" itemprop="image" />
+<a href="/Product/25039/fifa-21-next-level-edition-playstation-5-arabic-used" title="FIFA 21 Next Level Edition - PlayStation 5 Arabic USED ">
+<img alt="FIFA 21 Next Level Edition - PlayStation 5 Arabic USED " src="/Images/Products/31186?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25039/fifa-21-next-level-edition-playstation-5-arabic-used" title="FIFA 21 Next Level Edition - PlayStation 5 Arabic USED ">FIFA 21 Next Level Edition - PlayStation 5 Arabic USED </a>
+</h2>
+<span class="product__category">PS5 Used Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">340</span>
+ <span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="340.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25039" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Next_Level_Edition__PlayStation_5_USED" itemprop="name" />
+<meta content="FIFA_21_Next_Level_Edition__PlayStation_5_USED_is_now_available_at_Games2Egypt_with_best_Prices_is_Egypt_On_the_street_and_in_the_stadium_FIFA_21_has_more_ways_to_play_than_ever_before" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25038/fifa-21-next-level-edition-playstation-5-used" itemprop="url" />
+<meta content="290.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/31185?" itemprop="image" />
+<a href="/Product/25038/fifa-21-next-level-edition-playstation-5-used" title="FIFA 21 Next Level Edition - PlayStation 5 USED">
+<img alt="FIFA 21 Next Level Edition - PlayStation 5 USED" src="/Images/Products/31185?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25038/fifa-21-next-level-edition-playstation-5-used" title="FIFA 21 Next Level Edition - PlayStation 5 USED">FIFA 21 Next Level Edition - PlayStation 5 USED</a>
+</h2>
+<span class="product__category">PS5 Used Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">290</span>
+<span class="float_price">00</span>
+ </div>
+</div>
+</header>
+<meta content="290.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25038" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Champions_Edition_PS4_Digital_Code_Middle_East" itemprop="name" />
+<meta content="Get_The_one_and_The_Best_Football_Game_FIFA_21_Champions_Edition_Digital_On_PlayStation_4_With_The_Best_Price_in_Egypt_From_Games2Egypt_Release_Date_9_October_2020__" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24388/fifa-21-champions-edition-ps4-digital-code-middle-east" itemprop="url" />
+<meta content="650.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/29433?" itemprop="image" />
+<a href="/Product/24388/fifa-21-champions-edition-ps4-digital-code-middle-east" title="FIFA 21 Champions Edition PS4 Digital Code (Middle East)">
+<img alt="FIFA 21 Champions Edition PS4 Digital Code (Middle East)" src="/Images/Products/29433?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24388/fifa-21-champions-edition-ps4-digital-code-middle-east" title="FIFA 21 Champions Edition PS4 Digital Code (Middle East)">FIFA 21 Champions Edition PS4 Digital Code (Middle East)</a>
+</h2>
+<span class="product__category">Digital Products</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+ </span>
+<span class="int_price">650</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="650.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24388" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_20_Arabic_EditionPS4__Used" itemprop="name" />
+<meta content="FIFA20_PS4__PlayStation_4Hurry_up_and_reserve_your_copy_from_FIFA_20_now_to_play_it_first_pre__order_it_now_from_Games_2_EgyptOfficially_launching_worldwide_September_27_on_PlayStation_4_Xbox_One_and_PC_FIFA_20_will_bring_two_sides_ofThe_Worlds_Game_to_life__the_prestige_of_the_professional_stage_and_an_allnew_authentic_street_football_experience_in_EA_SPORTS_VOLTAPreorder_now_for_some_great_content_to_give_yourself_a_headstart_in_the_games_most_popular_mode_FIFA_Ultimate_Teamand_get_three_days_early_access_with_the_Ultimate_and_Champions_Editions_of_FIFA_20_The_EA_SPORTS_FIFA_20_Legacy_Edition_will_also_be_available_September_27_on_Nintendo_Switch" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/22977/fifa-20-arabic-edition-ps4-used" itemprop="url" />
+<meta content="190.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/27259?" itemprop="image" />
+<a href="/Product/22977/fifa-20-arabic-edition-ps4-used" title="FIFA 20 Arabic Edition-PS4 - Used">
+<img alt="FIFA 20 Arabic Edition-PS4 - Used" src="/Images/Products/27259?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/22977/fifa-20-arabic-edition-ps4-used" title="FIFA 20 Arabic Edition-PS4 - Used">FIFA 20 Arabic Edition-PS4 - Used</a>
+</h2>
+<span class="product__category">PS4 Used Games</span>
+<div class="product__price">
+ <span class="price_currency">
+EGP
+</span>
+<span class="int_price">190</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="190.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="22977" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22__PS5_Digital_Code" itemprop="name" />
+<meta content="Now_you_can_perorder_your_FIFA_22_standard_Edition_for_PlayStation_5_before_anyone_from_games_2_Egypt_Powered_by_Football_EA_SPORTS_FIFA_22_brings_the_game_even_closer_to_the_real_thing_with_fundamental_gameplay_advances_and_a_new_season_of_innovation_across_every_modeFor_region_2_account_only__" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25653/fifa-22-ps5-digital-code" itemprop="url" />
+<meta content="1100.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33505?" itemprop="image" />
+<a href="/Product/25653/fifa-22-ps5-digital-code" title="FIFA 22 - PS5 Digital Code">
+<img alt="FIFA 22 - PS5 Digital Code" src="/Images/Products/33505?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25653/fifa-22-ps5-digital-code" title="FIFA 22 - PS5 Digital Code">FIFA 22 - PS5 Digital Code</a>
+</h2>
+ <span class="product__category">PS5 Games</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1100</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1100.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25653" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_Ultimate_Team___2200_FIFA_Points_UAE" itemprop="name" />
+<meta content="Make_the_most_of_your_FIFA_22_Ultimate_Team_experience_by_purchasing_a_stash_of_ingame_currency_known_as_FIFA_22_Ultimate_Team_Points_or_FUT_Points_for_short_Unlike_with_the_alternative_FUT_Coins_currency_that_can_only_be_earned_by_playing_matches_FUT_Points_can_be_obtained_by_purchasing_a_cheap_FIFA_22_Points_PSN_key_on_our_store_This_way_you_save_your_time_energy_and_have_to_grind_way_less_in_your_pursuit_of_assembling_the_ultimate_dream_football_team" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25561/fifa-22-ultimate-team-2200-fifa-points-uae" itemprop="url" />
+<meta content="399.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33526?" itemprop="image" />
+<a href="/Product/25561/fifa-22-ultimate-team-2200-fifa-points-uae" title="FIFA 22 Ultimate Team -  2200 FIFA Points UAE">
+<img alt="FIFA 22 Ultimate Team -  2200 FIFA Points UAE" src="/Images/Products/33526?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25561/fifa-22-ultimate-team-2200-fifa-points-uae" title="FIFA 22 Ultimate Team -  2200 FIFA Points UAE">FIFA 22 Ultimate Team - 2200 FIFA Points UAE</a>
+</h2>
+<span class="product__category">FIFA Points</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">399</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="399.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25561" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_Ultimate_Team___4600_FIFA_Points_UAE_" itemprop="name" />
+<meta content="Make_the_most_of_your_FIFA_22_Ultimate_Team_experience_by_purchasing_a_stash_of_ingame_currency_known_as_FIFA_22_Ultimate_Team_Points_or_FUT_Points_for_short_Unlike_with_the_alternative_FUT_Coins_currency_that_can_only_be_earned_by_playing_matches_FUT_Points_can_be_obtained_by_purchasing_a_cheap_FIFA_22_Points_PSN_key_on_our_store_This_way_you_save_your_time_energy_and_have_to_grind_way_less_in_your_pursuit_of_assembling_the_ultimate_dream_football_team" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25560/fifa-22-ultimate-team-4600-fifa-points-uae" itemprop="url" />
+<meta content="750.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33525?" itemprop="image" />
+<a href="/Product/25560/fifa-22-ultimate-team-4600-fifa-points-uae" title="FIFA 22 Ultimate Team -  4600 FIFA Points UAE ">
+<img alt="FIFA 22 Ultimate Team -  4600 FIFA Points UAE " src="/Images/Products/33525?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+ </span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25560/fifa-22-ultimate-team-4600-fifa-points-uae" title="FIFA 22 Ultimate Team -  4600 FIFA Points UAE ">FIFA 22 Ultimate Team - 4600 FIFA Points UAE </a>
+</h2>
+<span class="product__category">FIFA Points</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">750</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="750.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25560" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_22_Ultimate_Team__1050_FIFA_Points_UAE" itemprop="name" />
+<meta content="Make_the_most_of_your_FIFA_22_Ultimate_Team_experience_by_purchasing_a_stash_of_ingame_currency_known_as_FIFA_22_Ultimate_Team_Points_or_FUT_Points_for_short_Unlike_with_the_alternative_FUT_Coins_currency_that_can_only_be_earned_by_playing_matches_FUT_Points_can_be_obtained_by_purchasing_a_cheap_FIFA_22_Points_PSN_key_on_our_store_This_way_you_save_your_time_energy_and_have_to_grind_way_less_in_your_pursuit_of_assembling_the_ultimate_dream_football_team" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/25557/fifa-22-ultimate-team-1050-fifa-points-uae" itemprop="url" />
+<meta content="220.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/33527?" itemprop="image" />
+<a href="/Product/25557/fifa-22-ultimate-team-1050-fifa-points-uae" title=" FIFA 22 Ultimate Team - 1050 FIFA Points UAE">
+<img alt=" FIFA 22 Ultimate Team - 1050 FIFA Points UAE" src="/Images/Products/33527?height=225" />
+</a>
+<div class="product__bg-letters"></div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/25557/fifa-22-ultimate-team-1050-fifa-points-uae" title=" FIFA 22 Ultimate Team - 1050 FIFA Points UAE"> FIFA 22 Ultimate Team - 1050 FIFA Points UAE</a>
+</h2>
+<span class="product__category">FIFA Points</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">220</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="220.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="25557" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Arabic_Edition__PC_Origin_Code" itemprop="name" />
+<meta content="FIFA_21_Arabic_Edition__PC_Origin_Code_now_from_games2egypt_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24354/fifa-21-arabic-edition-pc-origin-code" itemprop="url" />
+<meta content="650.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/29397?" itemprop="image" />
+<a href="/Product/24354/fifa-21-arabic-edition-pc-origin-code" title="FIFA 21 Arabic Edition - PC Origin Code">
+ <img alt="FIFA 21 Arabic Edition - PC Origin Code" src="/Images/Products/29397?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24354/fifa-21-arabic-edition-pc-origin-code" title="FIFA 21 Arabic Edition - PC Origin Code">FIFA 21 Arabic Edition - PC Origin Code</a>
+</h2>
+<span class="product__category">Digital Products</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">650</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="650.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24354" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Ultimate_Team__500_FIFA_Points_KSA" itemprop="name" />
+<meta content="FIFA_21_Ultimate_Team__500_FIFA_Points_KSA_is_now_available_at_Games2Egypt_with_best_Prices_in_Egypt_Use_your_FIFA_points_to_open_packs_and_build_your_FIFA_Ultimate_Team_even_faster_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24917/fifa-21-ultimate-team-500-fifa-points-ksa" itemprop="url" />
+<meta content="150.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/31179?" itemprop="image" />
+ <a href="/Product/24917/fifa-21-ultimate-team-500-fifa-points-ksa" title="FIFA 21 Ultimate Team - 500 FIFA Points KSA">
+<img alt="FIFA 21 Ultimate Team - 500 FIFA Points KSA" src="/Images/Products/31179?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24917/fifa-21-ultimate-team-500-fifa-points-ksa" title="FIFA 21 Ultimate Team - 500 FIFA Points KSA">FIFA 21 Ultimate Team - 500 FIFA Points KSA</a>
+</h2>
+<span class="product__category">Gaming Gift Cards</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">150</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="150.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24917" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Ultimate_Team__1600_FIFA_Points_KSA" itemprop="name" />
+<meta content="FIFA_21_Ultimate_Team__1600_FIFA_Points_KSA_is_now_available_at_Games2Egypt_with_best_Prices_in_Egypt_Use_your_FIFA_points_to_open_packs_and_build_your_FIFA_Ultimate_Team_even_faster_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24919/fifa-21-ultimate-team-1600-fifa-points-ksa" itemprop="url" />
+<meta content="340.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+
+<link href="https://www.games2egypt.com/Images/Products/31181?" itemprop="image" />
+<a href="/Product/24919/fifa-21-ultimate-team-1600-fifa-points-ksa" title="FIFA 21 Ultimate Team - 1600 FIFA Points KSA">
+<img alt="FIFA 21 Ultimate Team - 1600 FIFA Points KSA" src="/Images/Products/31181?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24919/fifa-21-ultimate-team-1600-fifa-points-ksa" title="FIFA 21 Ultimate Team - 1600 FIFA Points KSA">FIFA 21 Ultimate Team - 1600 FIFA Points KSA</a>
+</h2>
+<span class="product__category">Gaming Gift Cards</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">340</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="340.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24919" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Ultimate_Team__12000_FIFA_Points_KSA" itemprop="name" />
+<meta content="Use_your_FIFA_points_to_open_packs_and_build_your_FIFA_Ultimate_Team_even_faster_Downloading_is_simple_After_you_complete_the_purchase_you_will_receive_a_link_on_the_orderconfirmation_page_with_detailed_instruction_for_downloading_This_link_is_also_stored_in_your_Games_amp_Software_Library_BUILD__Build_your_squad_with_over_12000_players_Choose_your_favorites_or_pick_players_that_fi_t_your_style_of_football_MANAGE__You_can_open_packs_or_use_the_Transfer_Market_to_acquire_new_players_that_can_enhance_team_chemistry_COMPETE__With_millions_of_games_played_daily_there_is_always_an_opponent_ready_in_FIFA_21_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24647/fifa-21-ultimate-team-12000-fifa-points-ksa" itemprop="url" />
+<meta content="1850.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/29781?" itemprop="image" />
+<a href="/Product/24647/fifa-21-ultimate-team-12000-fifa-points-ksa" title="FIFA 21 Ultimate Team - 12000 FIFA Points KSA">
+<img alt="FIFA 21 Ultimate Team - 12000 FIFA Points KSA" src="/Images/Products/29781?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24647/fifa-21-ultimate-team-12000-fifa-points-ksa" title="FIFA 21 Ultimate Team - 12000 FIFA Points KSA">FIFA 21 Ultimate Team - 12000 FIFA Points KSA</a>
+</h2>
+<span class="product__category">FIFA Points</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">1850</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="1850.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24647" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Ultimate_Team__1050_FIFA_Points_KSA" itemprop="name" />
+<meta content="Use_your_FIFA_points_to_open_packs_and_build_your_FIFA_Ultimate_Team_even_faster_Downloading_is_simple_After_you_complete_the_purchase_you_will_receive_a_link_on_the_orderconfirmation_page_with_detailed_instruction_for_downloading_This_link_is_also_stored_in_your_Games_amp_Software_Library_BUILD__Build_your_squad_with_over_1050_players_Choose_your_favorites_or_pick_players_that_fi_t_your_style_of_football_MANAGE__You_can_open_packs_or_use_the_Transfer_Market_to_acquire_new_players_that_can_enhance_team_chemistry_COMPETE__With_millions_of_games_played_daily_there_is_always_an_opponent_ready_in_FIFA_21_Ultimate_Team_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24653/fifa-21-ultimate-team-1050-fifa-points-ksa" itemprop="url" />
+<meta content="280.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/31178?" itemprop="image" />
+<a href="/Product/24653/fifa-21-ultimate-team-1050-fifa-points-ksa" title="FIFA 21 Ultimate Team - 1050 FIFA Points KSA">
+<img alt="FIFA 21 Ultimate Team - 1050 FIFA Points KSA" src="/Images/Products/31178?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24653/fifa-21-ultimate-team-1050-fifa-points-ksa" title="FIFA 21 Ultimate Team - 1050 FIFA Points KSA">FIFA 21 Ultimate Team - 1050 FIFA Points KSA</a>
+</h2>
+<span class="product__category">FIFA Points</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">280</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="280.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer"> 
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24653" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+<li class="product__item card " itemscope itemtype="http://schema.org/Product">
+<meta content="FIFA_21_Standard_Edition_English__PC_Origin_Code" itemprop="name" />
+<meta content="Get_FIFA_21_English_edition_now_from_Games2Egypt_for_PC_" itemprop="description" />
+<link href="https://www.games2egypt.com/Product/24353/fifa-21-standard-edition-english-pc-origin-code" itemprop="url" />
+<meta content="600.00" itemprop="price" />
+<div class="product_inner_content">
+<div class="product__img ">
+<link href="https://www.games2egypt.com/Images/Products/29396?" itemprop="image" />
+<a href="/Product/24353/fifa-21-standard-edition-english-pc-origin-code" title="FIFA 21 Standard Edition English - PC Origin Code">
+<img alt="FIFA 21 Standard Edition English - PC Origin Code" src="/Images/Products/29396?height=225" />
+</a>
+<div class="product__bg-letters">FIFA</div>
+<p class="lower_corner_tag">
+<span>
+Digital Code
+</span>
+</p>
+</div>
+<div class="product__content card__content " itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<header class="product__header">
+<div class="product__header-inner">
+<h2 class="product__title">
+<a href="/Product/24353/fifa-21-standard-edition-english-pc-origin-code" title="FIFA 21 Standard Edition English - PC Origin Code">FIFA 21 Standard Edition English - PC Origin Code</a>
+</h2>
+<span class="product__category">Digital Products</span>
+<div class="product__price">
+<span class="price_currency">
+EGP
+</span>
+<span class="int_price">600</span>
+<span class="float_price">00</span>
+</div>
+</div>
+</header>
+<meta content="600.00" itemprop="price" />
+<meta itemprop="priceCurrency" content="EGP" />
+<footer class="product__footer">
+<meta content="https://schema.org/InStock" itemprop="availability" />
+<a class="btn btn-icon btn-default product__add-to-cart addToCart" data-productId="24353" data-quantity="1" title="Add to Cart">Add to Cart</a>
+</footer>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<nav aria-label="Shop navigation">
+<ul class="pagination justify-content-end px-3">
+<li class="page-item active">
+<a class="page-link" href="#" data-page="1">1</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="#" data-page="2">2</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="#" data-page="3">3</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="#" data-page="4">4</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-3 order-md-1 large_screen_filters">
+<input type="hidden" name="priceFrom" value="0" id="priceFrom" />
+<input type="hidden" name="priceTo" value="20000" id="priceTo" />
+<aside class="card widget--sidebar widget_categories">
+<div class="widget__title card__header">
+<h4>Categories</h4>
+</div>
+<div class="widget__content card__content categories_list">
+<ul class="widget__list" id="accordion">
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3326" href="/Category/3326/virtual-reality-vr" title="Virtual Reality (VR)">
+Virtual Reality (VR) </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3327" href="/Category/3327/data-storage" title="Data Storage">
+Data Storage </a>
+</div>
+</li>
+<li class="has-children" data-target="#205" aria-controls="205" aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="205" href="/Category/205/pc" title="PC">
+PC </a>
+</div>
+<ul id="205" class="collapse " aria-labelledby="PC" data-parent="#accordion">
+<li>
+<div class="cat_item">
+<a data-categoryId="3304" href="/Category/3304/pc-software" title="/Category/3304/pc-software">
+PC Software </a>
+</div>
+</li>
+<li>
+ <div class="cat_item">
+<a data-categoryId="2234" href="/Category/2234/pc-digital-games" title="/Category/2234/pc-digital-games">
+PC Digital Games </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3272" href="/Category/3272/steam-gift-cards" title="/Category/3272/steam-gift-cards">
+Steam Gift Cards </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="2242" href="/Category/2242/pc-accessories" title="/Category/2242/pc-accessories">
+PC Accessories </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3315" href="/Category/3315/keyboard-and-mouse" title="/Category/3315/keyboard-and-mouse">
+Keyboard And Mouse </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3316" href="/Category/3316/webcams-mics" title="/Category/3316/webcams-mics">
+Webcams &amp; Mics </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3321" href="/Category/3321/gaming-laptops" title="/Category/3321/gaming-laptops">
+Gaming Laptops </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children" data-target="#3281" aria-controls="3281" aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3281" href="/Category/3281/playstation" title="PlayStation">
+PlayStation </a>
+</div>
+<ul id="3281" class="collapse " aria-labelledby="PlayStation" data-parent="#accordion">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3282" href="/Category/3282/playstation-5" title="/Category/3282/playstation-5">
+PlayStation 5 </a>
+ </div>
+<ul id="3282" class="collapse " aria-labelledby="PlayStation" data-parent="#3282" data-toggle="collapse">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3286" href="/Category/3286/ps5-accessories" title="/Category/3286/ps5-accessories">
+PS5 Accessories </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3287" href="/Category/3287/ps5-games" title="/Category/3287/ps5-games">
+PS5 Games </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3288" href="/Category/3288/ps5-used-games" title="/Category/3288/ps5-used-games">
+PS5 Used Games </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3289" href="/Category/3289/ps5-consoles" title="/Category/3289/ps5-consoles">
+PS5 Consoles </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="225" href="/Category/225/playstation-4" title="/Category/225/playstation-4">
+PlayStation 4 </a>
+</div>
+<ul id="225" class="collapse " aria-labelledby="PlayStation" data-parent="#225" data-toggle="collapse">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="1227" href="/Category/1227/ps4-games" title="/Category/1227/ps4-games">
+PS4 Games </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="1229" href="/Category/1229/ps4-accesories" title="/Category/1229/ps4-accesories">
+PS4 Accesories </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2237" href="/Category/2237/ps4-used-games" title="/Category/2237/ps4-used-games">
+PS4 Used Games </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2241" href="/Category/2241/ps4-virtual-reality" title="/Category/2241/ps4-virtual-reality">
+PS4 Virtual Reality </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2267" href="/Category/2267/ps4-consoles" title="/Category/2267/ps4-consoles">
+PS4 Consoles </a>
+</div>
+</li>
+</ul> </li>
+</ul> </li>
+<li class="has-children" data-target="#3305" aria-controls="3305" aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3305" href="/Category/3305/xbox" title="Xbox">
+Xbox </a>
+</div>
+<ul id="3305" class="collapse " aria-labelledby="Xbox" data-parent="#accordion">
+<li>
+<div class="cat_item">
+<a data-categoryId="2230" href="/Category/2230/xbox-consoles" title="/Category/2230/xbox-consoles">
+Xbox Consoles </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3323" href="/Category/3323/xbox-accessories" title="/Category/3323/xbox-accessories">
+Xbox Accessories </a>
+ </div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="228" href="/Category/228/xbox-games" title="/Category/228/xbox-games">
+Xbox Games </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="2248" href="/Category/2248/xbox-used-games" title="/Category/2248/xbox-used-games">
+Xbox Used Games </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children" data-target="#2238" aria-controls="2238" aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="2238" href="/Category/2238/nintendo-switch" title="Nintendo Switch">
+Nintendo Switch </a>
+</div>
+<ul id="2238" class="collapse " aria-labelledby="Nintendo Switch" data-parent="#accordion">
+<li>
+<div class="cat_item">
+<a data-categoryId="3312" href="/Category/3312/nintendo-consoles" title="/Category/3312/nintendo-consoles">
+Nintendo Consoles </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="2249" href="/Category/2249/nintendo-accessories" title="/Category/2249/nintendo-accessories">
+Nintendo Accessories </a>
+</div>
+</li>
+<li>
+<div class="cat_item">
+<a data-categoryId="2250" href="/Category/2250/nintendo-games" title="/Category/2250/nintendo-games">
+Nintendo Games </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children" data-target="#206" aria-controls="206" aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="206" href="/Category/206/digital-products" title="Digital Products">
+Digital Products </a>
+</div>
+<ul id="206" class="collapse " aria-labelledby="Digital Products" data-parent="#accordion">
+<li class="has-children">
+ <div class="cat_item">
+<a data-categoryId="1228" href="/Category/1228/playstation-plus" title="/Category/1228/playstation-plus">
+PlayStation Plus </a>
+</div>
+<ul id="1228" class="collapse " aria-labelledby="Digital Products" data-parent="#1228" data-toggle="collapse">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2253" href="/Category/2253/psn-uae-store" title="/Category/2253/psn-uae-store">
+PSN UAE Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2258" href="/Category/2258/psn-ksa-store" title="/Category/2258/psn-ksa-store">
+PSN KSA Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2260" href="/Category/2260/psn-qatar-store" title="/Category/2260/psn-qatar-store">
+PSN Qatar Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2261" href="/Category/2261/psn-bahrain-store" title="/Category/2261/psn-bahrain-store">
+PSN Bahrain Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2262" href="/Category/2262/psn-kuwait-store" title="/Category/2262/psn-kuwait-store">
+PSN Kuwait Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2263" href="/Category/2263/psn-oman-store" title="/Category/2263/psn-oman-store">
+PSN Oman Store  </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2264" href="/Category/2264/psn-uk-store" title="/Category/2264/psn-uk-store">
+PSN UK Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2265" href="/Category/2265/psn-usa-store" title="/Category/2265/psn-usa-store">
+PSN USA Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3278" href="/Category/3278/psn-lebanon-store" title="/Category/3278/psn-lebanon-store">
+PSN Lebanon Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3284" href="/Category/3284/psn-france-store" title="/Category/3284/psn-france-store">
+PSN France Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3285" href="/Category/3285/psn-canada-store" title="/Category/3285/psn-canada-store">
+PSN Canada Store </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3301" href="/Category/3301/xbox-digital-products" title="/Category/3301/xbox-digital-products">
+Xbox Digital Products </a>
+</div>
+<ul id="3301" class="collapse " aria-labelledby="Digital Products" data-parent="#3301" data-toggle="collapse">
+ <li class="has-children">
+<div class="cat_item">
+<a data-categoryId="1237" href="/Category/1237/xbox-live" title="/Category/1237/xbox-live">
+Xbox Live </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3280" href="/Category/3280/xbox-digital-games" title="/Category/3280/xbox-digital-games">
+Xbox Digital Games </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3302" href="/Category/3302/nintendo-digital-products" title="/Category/3302/nintendo-digital-products">
+Nintendo Digital Products </a>
+</div>
+<ul id="3302" class="collapse " aria-labelledby="Digital Products" data-parent="#3302" data-toggle="collapse">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="2251" href="/Category/2251/nintendo-e-shop" title="/Category/2251/nintendo-e-shop">
+Nintendo E-Shop </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3299" href="/Category/3299/switch-digital-games" title="/Category/3299/switch-digital-games">
+Switch Digital Games </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3270" href="/Category/3270/apple-itunes" title="/Category/3270/apple-itunes">
+Apple iTunes </a>
+</div>
+<ul id="3270" class="collapse " aria-labelledby="Digital Products" data-parent="#3270" data-toggle="collapse">
+ <li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3295" href="/Category/3295/itunes-usa-store" title="/Category/3295/itunes-usa-store">
+iTunes USA Store </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3296" href="/Category/3296/itunes-uk-store" title="/Category/3296/itunes-uk-store">
+iTunes UK Store </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3271" href="/Category/3271/google-play" title="/Category/3271/google-play">
+Google play </a>
+</div>
+<ul id="3271" class="collapse " aria-labelledby="Digital Products" data-parent="#3271" data-toggle="collapse">
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3297" href="/Category/3297/google-play-usa" title="/Category/3297/google-play-usa">
+Google Play USA </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3298" href="/Category/3298/google-play-uk" title="/Category/3298/google-play-uk">
+Google Play UK </a>
+</div>
+</li>
+</ul> </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3291" href="/Category/3291/gaming-gift-cards" title="/Category/3291/gaming-gift-cards">
+Gaming Gift Cards </a>
+</div>
+<ul id="3291" class="collapse " aria-labelledby="Digital Products" data-parent="#3291" data-toggle="collapse">
+<li class="has-children">
+ <div class="cat_item">
+<a data-categoryId="3292" href="/Category/3292/fortnite" title="/Category/3292/fortnite">
+Fortnite </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3293" href="/Category/3293/pubg" title="/Category/3293/pubg">
+PUBG </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3294" href="/Category/3294/roblox" title="/Category/3294/roblox">
+Roblox </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3300" href="/Category/3300/fifa-points" title="/Category/3300/fifa-points">
+FIFA Points </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3307" href="/Category/3307/league-of-legends" title="/Category/3307/league-of-legends">
+League Of Legends </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3308" href="/Category/3308/razer-gold" title="/Category/3308/razer-gold">
+Razer Gold </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3310" href="/Category/3310/apex-legends" title="/Category/3310/apex-legends">
+Apex Legends </a>
+</div>
+ </li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3311" href="/Category/3311/obucks-gift-cards" title="/Category/3311/obucks-gift-cards">
+OBucks Gift Cards </a>
+</div>
+</li>
+<li class="has-children">
+<div class="cat_item">
+<a data-categoryId="3317" href="/Category/3317/free-fire" title="/Category/3317/free-fire">
+Free Fire </a>
+</div>
+</li>
+</ul> </li>
+<li>
+<div class="cat_item">
+<a data-categoryId="3303" href="/Category/3303/pc-digital-products" title="/Category/3303/pc-digital-products">
+PC Digital Products </a>
+</div>
+</li>
+</ul> </li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3325" href="/Category/3325/gaming-monitors" title="Gaming Monitors ">
+Gaming Monitors </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3313" href="/Category/3313/gaming-headsets" title="Gaming Headsets">
+Gaming Headsets </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3314" href="/Category/3314/gaming-chairs" title="Gaming Chairs">
+Gaming Chairs </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3324" href="/Category/3324/used-consoles-and-accessories" title="Used Consoles And Accessories">
+Used Consoles And Accessories </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3269" href="/Category/3269/accessories" title="Accessories">
+Accessories </a>
+ </div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3318" href="/Category/3318/posters" title="Posters">
+Posters </a>
+</div>
+</li>
+<li aria-expanded="false">
+<div class="cat_item">
+<a data-categoryId="3319" href="/Category/3319/cables" title="Cables">
+Cables </a>
+</div>
+</li>
+</ul>
+</div>
+</aside>
+<aside class="card widget--sidebar widget_filter-size">
+<div class="widget__title card__header card__header--has-btn">
+<h4>Available in</h4>
+<button class="btn btn-default btn-outline btn-xs card-header__button" type="submit">Filter </button>
+</div>
+<div class="widget__content card__content">
+<ul class="list mb-2">
+<li class="highlight">All products available for delivery.</li>
+<li class="highlight">Codes available in all branches.</li>
+</ul>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="1"> Headquarters
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="2"> Maadi
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="3"> Point 90
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="4"> Amreciana Plaza
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="5"> City Centre Maadi
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="6"> Mohandessin
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="8"> 6th Of October
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+</aside>
+<aside class="card widget--sidebar widget_filter-size">
+<div class="widget__title card__header card__header--has-btn">
+<h4>Games by Genre</h4>
+<button class="btn btn-default btn-outline btn-xs card-header__button" type="submit">Filter </button>
+</div>
+<div class="widget__content card__content">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="genreId" type="checkbox" value="6"> FPS
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="genreId" type="checkbox" value="7"> Sports
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+</aside>
+<aside class="card widget--sidebar">
+<div class="widget__title card__header card__header--has-btn">
+<h4>Filter by Price</h4>
+<button class="btn btn-default btn-outline btn-xs card-header__button" type="submit">Filter</button>
+</div>
+<div class="widget__content card__content">
+<div class="slider-range-wrapper">
+<div class="slider-range" id="slider-range"></div>
+<div class="slider-range-label">
+Price: LE<span id="slider-range-value-min"></span> - LE<span id="slider-range-value-max"></span>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="small_screen_filters">
+<div id="sort" class="filters_container pb-2">
+<div class="header px-3 py-2">
+<div class="row">
+<div class="col-6">
+<h4 class="mb-0 pt-1">Sort by</h4>
+</div>
+<div class="col-6 text-right">
+<button class="btn btn-default btn-xs" type="submit">Sort</button>
+</div>
+</div>
+</div>
+<div class="row p-3 filters_body">
+<div class="col-12 py-1">
+<label class="radio radio-inline mr-2">
+<input type="radio" name="sortBy" checked="checked" value="bestMatch">Best Match
+<span class="radio-indicator"></span>
+</label>
+</div>
+<div class="col-12 py-1">
+<label class="radio radio-inline mr-2">
+<input type="radio" name="sortBy" value="priceLowToHigh"> Price: Low to High
+<span class="radio-indicator"></span>
+</label>
+</div>
+<div class="col-12 py-1">
+<label class="radio radio-inline mr-2">
+<input type="radio" name="sortBy" value="priceHighToLow"> Price: High to Low
+<span class="radio-indicator"></span>
+</label>
+</div>
+<div class="col-12 py-1">
+<label class="radio radio-inline mr-2">
+<input type="radio" name="sortBy" value="newToOld"> New to Old
+<span class="radio-indicator"></span>
+</label>
+</div>
+<div class="col-12 py-1">
+<label class="radio radio-inline mr-2">
+<input type="radio" name="sortBy" value="oldToNew"> Old to New
+<span class="radio-indicator"></span>
+</label>
+</div>
+</div>
+</div>
+<div id="genres" class="filters_container">
+<div class="header px-3 py-2">
+<div class="row">
+<div class="col-6">
+<h4 class="mb-0 pt-1">Game Genres</h4>
+</div>
+<div class="col-6 text-right">
+<button class="btn btn-default btn-xs" type="submit">Filter </button>
+</div>
+</div>
+</div>
+<div class="row p-3 filters_body">
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="genreId" type="checkbox" value="6"> FPS
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="genreId" type="checkbox" value="7"> Sports
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+ </div>
+</div>
+</div>
+<div id="brands" class="filters_container">
+<div class="header px-3 py-2">
+<div class="row">
+<div class="col-6">
+<h4 class="mb-0 pt-1">Brands</h4>
+</div>
+<div class="col-6 text-right">
+<button class="btn btn-default btn-xs" type="submit">Filter </button>
+</div>
+</div>
+</div>
+<div class="row py-3 pl-3 pr-1 filters_body">
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="brandId" type="checkbox" value="1054"> Microsoft Studios
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="brandId" type="checkbox" value="2055"> Others
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="brandId" type="checkbox" value="3086"> EA Sports
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="brandId" type="checkbox" value="4085"> Electronic Arts
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="brandId" type="checkbox" value="4120"> 505 Games
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<div id="branches" class="filters_container">
+<div class="header px-3 py-2">
+<div class="row">
+<div class="col-8">
+<h4 class="mb-0 pt-1">Stock available at</h4>
+</div>
+<div class="col-4 text-right">
+<button class="btn btn-default btn-xs" type="submit">Filter </button>
+</div>
+</div>
+</div>
+<div class="row p-3 filters_body">
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="1"> Headquarters
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="2"> Maadi
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="3"> Point 90
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="4"> Amreciana Plaza
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="5"> City Centre Maadi
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="6"> Mohandessin
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+<div class="col-6">
+<div class="form-group form-group--xs">
+<label class="checkbox checkbox-inline">
+<input name="branchIds" type="checkbox" value="8"> 6th Of October
+<span class="checkbox-indicator"></span>
+</label>
+</div>
+</div>
+</div>
+<div class="info pt-3">
+<p class="highlight"><i class="fa fa-check mr-2"></i> All products available for delivery</p>
+<p class="highlight"><i class="fa fa-check mr-2"></i> Codes available in all branches</p>
+</div>
+</div>
+<div id="price" class="filters_container">
+<div class="header px-3 py-2">
+<div class="row">
+<div class="col-6">
+<h4 class="mb-0 pt-1">Filter by Price</h4>
+</div>
+<div class="col-6 text-right">
+<button class="btn btn-default btn-xs" type="submit">Filter </button>
+</div>
+</div>
+</div>
+<div class="row p-3 pb-5 filters_body">
+<div class="col-12">
+<lable>From</lable>
+<input class="form-control" name="priceFrom" value="0" />
+<label>To</label>
+<input class="form-control" name="priceTo" value="20000" />
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+<footer class="footer" id="footer">
+<div class="footer-widgets">
+<div class="footer-widgets__inner">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 col-md-3">
+<div class="footer-col-inner">
+<div class="widget--footer">
+<h4 class="widget__title">Contact Info</h4>
+<div class="widget__content">
+<div class="info-block__item">
+<span class="df-icon df-icon--custom">
+<i class="icon-phone"></i>
+</span>
+<h6 class="info-block__heading">Hotline !</h6>
+<a class="info-block__link" href="tel:16280" title="Call us at Games 2 Egypt Hotline 16280">16280</a>
+</div>
+<div class="info-block__item">
+<span class="df-icon df-icon--custom">
+<i class="icon-envelope"></i>
+</span>
+<h6 class="info-block__heading">Contact Us</h6>
+<a class="info-block__link" href="/cdn-cgi/l/email-protection#076468697366647372744760666a62743562607e77732964686a" title="contactus@games2Egypt.com">
+<span class="__cf_email__" data-cfemail="5e3d31302a3f3d2a2b2d1e393f333b2d6c1b39272e2a703d3133">[email&#160;protected]</span>
+</a>
+</div>
+<div class="info-block__item">
+<span class="df-icon df-icon--custom">
+<i class="icon-briefcase"></i>
+</span>
+<h6 class="info-block__heading">Join Our Team !</h6>
+<a class="info-block__link" href="/cdn-cgi/l/email-protection#85efeae7f6c5e2e4e8e0f6b7e0e2fcf5f1abe6eae8" title="Work with Egypt contactus@games2Egypt.com"><span class="__cf_email__" data-cfemail="a4c7cbcad0c5c7d0d1d7e4c3c5c9c1d796e1c3ddd4d08ac7cbc9">[email&#160;protected]</span></a>
+</div>
+<div class="info-block__item info-block__item--nopadding">
+<ul class="social-links">
+<li class="social-links__item">
+<a class="social-links__link" href="https://www.facebook.com/games2Egypt" rel="noopener" target="_blank" title="Games 2 Egypt facebook.">
+<i class="fa fa-facebook"></i>Facebook
+</a>
+</li>
+<li class="social-links__item">
+<a class="social-links__link" href="https://twitter.com/games2Egypt?lang=en" rel="noopener" target="_blank" title="Twitter">
+<i class="fa fa-twitter"></i>Twitter
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12 col-md-6">
+<div class="footer-col-inner">
+<div class="footer-logo">
+<a href="/" title="Games 2 Egypt home page">
+<img alt="Games 2 Egypt for PS4 games, xbox one games, nintendo switch games" class="footer-logo__img" src="/Images/Regions/1/1?width=203">
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-12 col-md-3">
+<div class="footer-col-inner">
+<div class="widget-contact-info__desc">
+We aim to reach you anytime & everywhere<br />
+Your satisfaction is our mission
+<ul class="social-links mt-2">
+<li class="social-links__item">
+<a class="social-links__link" href="/Web/Home/TermsAndConditions" target="_blank" title="Terms and conditions">
+Terms and conditions
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-secondary footer-secondary--has-decor">
+<div class="container">
+<div class="footer-secondary__inner">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<ul class="footer-nav">
+<li class="footer-nav__item">
+Games 2 Egypt® LLC | 16280
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="modal fade" id="modal-login-register" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-lg modal--login" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<div class="modal-account-holder">
+<div class="modal-account__item">
+<form action="/Web/Members/VerifyNumber" class="modal-form" id="frmRegister" method="get">
+<input name="redirect" type="hidden" value="/" />
+<h5>Register now !</h5>
+<div class="form-group">
+<input class="form-control" id="register-mobile" name="number" placeholder="Enter mobile number" required type="tel">
+</div>
+<div class="form-group form-group--submit">
+<input class="btn btn-default btn-lg btn-block" type="submit" value="Register" />
+</div>
+</form>
+</div>
+<div class="modal-account__item">
+<form action="/Web/Members/DoLogin" class="modal-form" id="frmLogin" method="post">
+<input name="redirect" type="hidden" value="/Web/Members/MyAccount" />
+<h5>Login to your account</h5>
+<div class="form-group">
+<input class="form-control" id="login-name" name="username" placeholder="Enter your email or phone number" required type="text">
+</div>
+<div class="form-group">
+<input class="form-control" id="login-password" name="password" placeholder="Enter Password" required type="password">
+</div>
+<div class="form-group form-group--password-forgot">
+<label class="checkbox checkbox-inline">
+<input id="inlineCheckbox1" name="rememberMe" type="checkbox"> Remember me
+<span class="checkbox-indicator"></span>
+<span class="password-reminder float-end">
+<a href="/Web/Members/ForgotPassword" title="Recover games 2 Egypt account.">Forgot password</a>
+</span>
+</label>
+</div>
+<div class="form-group form-group--sm">
+<input class="btn btn-primary-inverse btn-lg btn-block" type="submit" value="Login" />
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal" tabindex="-1" role="dialog" id="regionModal">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title">Would you like to change the country ?</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+ </div>
+<div class="modal-body">
+<div class="row region">
+<div class="col-2">
+<img src="/Images/Regions/1/0?width=55" alt="country flag" title="country flag" />
+</div>
+<div class="col-6">
+<h5>
+<a href="/Web/Home/UpdateRegion?regionId=1" title="change region">
+<span>Egypt</span>
+</a>
+</h5>
+<span>www.games2egypt.com</span>
+</div>
+<div class="col-4 text-right">
+<a href="/Web/Home/UpdateRegion?regionId=1" class="btn btn-warning btn-sm" title="update region">Change</a>
+</div>
+</div>
+<div class="row region">
+<div class="col-2">
+<img src="/Images/Regions/3/0?width=55" alt="country flag" title="country flag" />
+</div>
+<div class="col-6">
+<h5>
+<a href="/Web/Home/UpdateRegion?regionId=3" title="change region">
+<span>Emirates</span>
+</a>
+</h5>
+<span>www.games2all.com</span>
+</div>
+<div class="col-4 text-right">
+<a href="/Web/Home/UpdateRegion?regionId=3" class="btn btn-warning btn-sm" title="update region">Change</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/Web/alchemists_theme/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/Web/alchemists_theme/assets/vendor/jquery/jquery-migrate.min.js"></script>
+<script src="/Web/alchemists_theme/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/Web/alchemists_theme/assets/js/core.min.js"></script>
+<script src="/Web/alchemists_theme/assets/js/autocomplete.js?v=1.7"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-37061974-1"></script>
+<script src="/Web/alchemists_theme/assets/js/init.min.js"></script>
+
+<div id="fb-root"></div>
+
+<div class="fb-customerchat" attribution="page_inbox" page_id="523137831035105"></div>
+<script>
+        $(window).load(function () {
+            $(".loading_green").fadeOut();
+        });
+        $(document).ready(function () {
+            $("#header-mobile__toggle").click(function () {
+                $(".body_overlay").fadeIn();
+            });
+            $(".body_overlay").click(function () {
+                if ($(".main-nav").hasClass("has_shadow")) {
+                    $(".body_overlay").fadeOut();
+                    $(".main-nav__back").click();
+                }
+            });
+            $(".main-nav__back").click(function () {
+                $(".body_overlay").fadeOut();
+            });
+            $('<link>')
+                .appendTo('head')
+                .attr({
+                    type: 'text/css',
+                    rel: 'stylesheet',
+                    href: '/Web/alchemists_theme/assets/fonts/font-awesome/css/font-awesome.min.css'
+                });
+            $('<link>')
+                .appendTo('head')
+                .attr({
+                    type: 'text/css',
+                    rel: 'stylesheet',
+                    href: '/Web/alchemists_theme/assets/fonts/simple-line-icons/css/simple-line-icons.css'
+                });
+
+
+        });
+        var web = {
+            loadCart: function () {
+                $.ajax({
+                    url: '/Web/Shopping/PopupCart',
+                    success: function (html) {
+                        $(".cart-box.popup").html(html);
+                    }
+                });
+            },
+            showCart: function () {
+            },
+            hideCart: function () {
+            }
+        };
+        web.loadCart();
+        $(".addToCart").click(function () {
+            //"use strict";
+            const productId = $(this).attr("data-productId");
+            const quantity = $(this).attr("data-quantity");
+            $.ajax({
+                url: `/Web/Shopping/DoAddToCart?productId=${productId}&quantity=${quantity}`,
+                beforeSend: function () {
+                    $('#loader-wrapper').fadeIn();
+                },
+                success: function () {
+                    $('#loader-wrapper').fadeOut();
+                    web.loadCart();
+                    web.showCart();
+
+                    setTimeout(function () { web.hideCart(); }, 1000);
+                },
+                complete: function () {
+                    window.location.href = "/Web/Shopping/Cart";
+                }
+            });
+        });
+    </script>
+
+<script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37061974-1');
+    </script>
+
+
+<script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v10.0'
+            });
+        };
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+<script src="/Web/js/jquery-ui.min.js"></script>
+<script>
+        $("#accordion li div").click(function (e) {
+            $(this).parent().find("> ul").toggleClass("show");
+        });
+        $("select[name=sortBy], select[name=pageSize]").change(function () {
+            $("#frmListProducts").submit();
+        });
+        $(".categories_list ul li a[data-categoryId]").click(function (e) {
+            e.preventDefault();
+
+            var categoryId = $(this).attr("data-categoryId");
+
+            $("#frmListProducts input[name=categoryId]").val(categoryId);
+            $("#frmListProducts input[name=page]").val(1);
+            $("#frmListProducts #priceFrom").val(0);
+            $("#frmListProducts #priceTo").val(20000);
+            $("#frmListProducts input[name=genreId]").removeAttr("checked");
+            $("#frmListProducts").submit();
+        });
+
+        var rangeSlider = document.getElementById('slider-range');
+
+        noUiSlider.create(rangeSlider, {
+            start: [0, 20000],
+            connect: true,
+            range: {
+                'min': [0],
+                'max': [20000]
+            }
+        });
+
+        var snapValues = [
+            document.getElementById('slider-range-value-min'),
+            document.getElementById('slider-range-value-max')
+        ];
+
+        rangeSlider.noUiSlider.on('update', function (values, handle) {
+            if (handle === 0) {
+                $("#priceFrom").val(values[0]);
+            }
+            else {
+                $("#priceTo").val(values[1]);
+            }
+
+            snapValues[handle].innerHTML = values[handle];
+        });
+
+        $("#clearSearch").click(function (e) {
+            e.preventDefault();
+
+            $("#frmListProducts input[name=search]").val("");
+            $("#frmListProducts").submit();
+
+        });
+
+        $('input[name=brandId]').change(function () {
+            $("#frmListProducts").submit();
+        });
+
+        $("a.page-link").on('click', function (e) {
+            e.preventDefault();
+            var page = $(this).attr("data-page");
+            if (page) {
+                $("input[name=page]").val(page);
+                $("#frmListProducts").submit();
+            }
+        });
+
+        function changeSort() {
+            $("input[name=page]").val(1);
+            $("#frmListProducts").submit();
+        }
+
+        function submitForm() {
+            $("input[name=page]").val(1);
+            $("#frmListProducts").submit();
+        }
+
+        function filterClicked(type) {
+            $("#" + type).slideToggle("slow");
+            $(".body_overlay").fadeIn();
+        }
+        $(".body_overlay").click(function() {
+            $(".filters_container").each(function() {
+                var wasVisible = $(this).is(":visible");
+                if (wasVisible) {
+                    $(this).slideToggle();
+                }
+            });
+            $(".body_overlay").fadeOut();
+        });
+
+
+        var windowsize = $(window).width();
+        if (windowsize > 1024) {
+            $(".small_screen_filters").remove();
+        }
+        else {
+            $(".large_screen_filters").remove();
+        }
+    </script>
+</body>
+</html>
